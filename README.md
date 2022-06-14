@@ -1,7 +1,7 @@
 # qb-angelsjob
 CREDIT : oosayeroo for the original public script. 
 
-This job is based off oosayeroo script for the vanilla Unicorn job using Gabz MLO
+This job is based off oosayeroo script for the vanilla Unicorn job using Gabz MLO. link to profile - https://github.com/oosayeroo
 
 This job requires a mlo screenshots to the one i used here:
 
